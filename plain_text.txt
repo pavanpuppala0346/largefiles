@@ -1,0 +1,7 @@
+Flat file database vs. relational database
+A flat file is often mistaken for a relational database, but they are actually much different. 
+A flat file consists of a single table of data. It allows the user to specify data attributes, such as columns and data types table by table,
+and stores those attributes separate from applications. This type of file is commonly used to import data in data warehousing projects.
+In relational databases, flat file is sometimes used as a synonym for a "relation." A relational database contains multiple tables of data that
+relate to each other and allows the user to specify information about multiple tables and the relationships between those tables, 
+allowing more flexibility and control over database constraints.
